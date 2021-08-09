@@ -1,0 +1,7 @@
+name: PlayerProfiles
+version: ${project.version}
+main: com.kingfrozo.inv.Main
+api-version: 1.17
+load: STARTUP
+authors: [ KingFrozo ]
+description: A Redis based player profile system for Spigot/Bukkit/Paper Minecraft Servers.
